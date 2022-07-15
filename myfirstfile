@@ -10,3 +10,4 @@ Terraform
 AWS Cloud
 GCP Cloud
 Linux Kernal
+Unix Commands >> mkdir- to create the directory >> chmod 777 - giving the total permissions to all >> chmod 755 - giving the permissions to owner 
